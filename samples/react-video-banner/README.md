@@ -1,8 +1,8 @@
-# video-background
+# React-Video-Banner
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Use this Web Part to add a banner in your pages to show a video with a text on top of it. 
 
 [picture of the solution in action, if possible]
 
@@ -25,14 +25,13 @@ Short summary on functionality and used technologies.
 
 Solution|Author(s)
 --------|---------
-folder name | Author details (name, company, twitter alias with link)
+React-Video-Banner | Mohamed Derhalli - https://SharePoint-thoughts.com - [@MohamedDerhalli](https://twitter.com/MohamedDerhalli)
 
 ## Version history
 
 Version|Date|Comments
 -------|----|--------
-1.1|March 10, 2021|Update comment
-1.0|January 29, 2021|Initial release
+1.0|April 2nd, 2021|Initial release
 
 ## Disclaimer
 
@@ -52,13 +51,12 @@ Version|Date|Comments
 
 ## Features
 
-Description of the extension that expands upon high-level summary above.
 
-This extension illustrates the following concepts:
+This Web Part illustrates the following concepts:
 
-- topic 1
-- topic 2
-- topic 3
+- React Hooks (useRef, useEffect)
+- Use SPFx Reusable Controls (File Picker)
+- CSS styles
 
 > Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
 
