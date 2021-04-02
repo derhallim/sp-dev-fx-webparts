@@ -8,6 +8,7 @@ Use this Web Part to add a video banner with a text on top of it to your pages.
 ![](https://github.com/derhallim/Resources/raw/main/react-video-banner-demo1.gif)
 
 
+
 ## Used SharePoint Framework Version
 
 ![version](https://img.shields.io/badge/version-1.11-green.svg)
@@ -25,7 +26,8 @@ Use this Web Part to add a video banner with a text on top of it to your pages.
 
 Solution|Author(s)
 --------|---------
-react-vide-banner | Mohamed Derhalli, https://sharepoint-thoughts.com -  [@MohamedDerhalli](https://twitter.com/MohamedDerhalli)
+react-video-banner | Mohamed Derhalli, https://sharepoint-thoughts.com -  [@MohamedDerhalli](https://twitter.com/MohamedDerhalli)
+
 
 
 ## Version history
@@ -60,7 +62,6 @@ This web part illustrates the following concepts:
 - React Hooks (useRef, useEffect)
 - Usage of SPFx Reusable Controls (File Picker)
 - CSS Styles
-
 
 > Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from http://aka.ms/m365pnp.
 
